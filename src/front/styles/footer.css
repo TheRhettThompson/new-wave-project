@@ -1,0 +1,6 @@
+.Footer {
+    display: flex;
+    align-items: flex-start;
+    padding: 5px;
+    color: rgba(126, 124, 124, 0.767);
+  }

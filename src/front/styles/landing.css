@@ -1,0 +1,90 @@
+.myimage1{
+    width: 800px;
+    height: 400px;
+    filter: brightness(80%);
+    object-fit: cover;
+}
+
+.myimage2{
+    width: 800px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.myimage3{
+    width: 800px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.Landing{
+    background: rgb(142,121,62);
+    background: linear-gradient(
+        90deg, 
+        rgba(142,121,62,0.947391456582633) 5%,
+        rgba(173,151,79,0.5776435574229692) 42%);
+}
+
+.Companies{
+    background: rgb(142,121,62);
+    background: linear-gradient(
+        90deg, 
+        rgba(142,121,62,0.947391456582633) 5%,
+        rgba(173,151,79,0.5776435574229692) 42%);
+}
+
+.companyLogos{
+    width: 65px;
+    height: 65px;
+}
+
+.cardGroupTestimonial{
+    display: flex;
+    padding: 20px;
+}
+
+.testimonyCard{
+    margin: 1rem;
+}
+
+.SocialMedia{
+    padding: 5px;
+    height: 100%;
+    font-size: 20px;
+    color: #ad974f;
+}
+
+.cardGroup{
+    padding: 5px;
+}
+
+.card{
+    padding: 5px;
+}
+
+Figure.Caption{
+    justify-self: left;
+    color: red;
+}
+
+Form.Control{
+  padding: 20px;
+}
+
+@media(max-width: 600px) {
+    /* paste all classes here, for things like images, email input, etc for mobile devices */
+    /* .myimage1{
+        width: 600px;
+        height: 200px;
+        filter: brightness(80%);
+        object-fit: cover; */
+    /* }
+     */
+
+
+
+
+
+
+
+}
